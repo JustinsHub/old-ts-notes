@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        //set up the root directory for all TS in /src to be compiled in and 
+        //outDir in /dist for all JS to be finished compiling from TS
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "target": "es5",
+    "module": "commonjs",
+    "sourceMap": true
+    }
+}
+
